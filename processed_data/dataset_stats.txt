@@ -1,0 +1,4 @@
+total_qa_pairs: 47441
+unique_topics: 10537
+avg_question_length: 51.53753082776501
+avg_answer_length: 456.67363672772495

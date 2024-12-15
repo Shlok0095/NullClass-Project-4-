@@ -1,0 +1,5 @@
+2024-12-09 16:28:24,260 - INFO - Starting dataset preprocessing...
+2024-12-09 16:28:33,117 - INFO - Saved CSV file to ./processed_data\medical_qa.csv
+2024-12-09 16:28:35,412 - INFO - Saved Parquet file to ./processed_data\medical_qa.parquet
+2024-12-09 16:28:35,477 - INFO - Saved dataset statistics to ./processed_data\dataset_stats.txt
+2024-12-09 16:28:35,477 - INFO - Preprocessing completed successfully!
